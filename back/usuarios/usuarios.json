@@ -1,0 +1,16 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "nome": "Lucas Sotero",
+            "email": "lucas.sotero@gmail.com",
+            "senha": "Batatinha123"
+        },
+        {
+            "id": 1,
+            "nome": "Jeniffer Benes",
+            "email": "jeniffer.bennes@gmail.com",
+            "senha": "NinguemSabe01"
+        }
+    ]
+}

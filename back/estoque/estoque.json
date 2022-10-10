@@ -1,0 +1,90 @@
+{
+    "estoque": [
+        {
+            "id": 1,
+            "marca": "Nike",
+            "nome": "Air Max",
+            "cores": [
+                {
+                    "Branco": true
+                },
+                {
+                    "Preto": false
+                },
+                {
+                    "Laranja": true
+                },
+                {
+                    "Cinza": true
+                }
+            ],
+            "tamanhos": [
+                {
+                    "37/38": true
+                },
+                {
+                    "38/39": true
+                },
+                {
+                    "39/40": true
+                },
+                {
+                    "40/41": false
+                },
+                {
+                    "41/42": false
+                }
+            ],
+            "genero": [
+                {
+                    "masculino": true
+                },
+                {
+                    "feminino": true
+                }
+            ],
+            "estoque": true,
+            "valor": 500
+        },
+        {
+            "id": 2,
+            "marca": "Vans",
+            "nome": "Authentic",
+            "cores": [
+                {
+                    "Off White": true
+                },
+                {
+                    "Black": true
+                },
+                {
+                    "Navy": true
+                }
+            ],
+            "tamanhos": [
+                {
+                    "37/38": false
+                },
+                {
+                    "38/39": true
+                },
+                {
+                    "39/40": true
+                },
+                {
+                    "40/41": false
+                },
+                {
+                    "41/42": true
+                }
+            ],
+            "genero": [
+                {
+                    "unissex": true
+                }
+            ],
+            "estoque": true,
+            "valor": 300
+        }
+    ]
+}
